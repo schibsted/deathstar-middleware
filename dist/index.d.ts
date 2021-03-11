@@ -1,1 +1,0 @@
-export { Deathstar } from './middleware';
