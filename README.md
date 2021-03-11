@@ -25,7 +25,7 @@ server.use(deathstar.middleware);
 
 Use these environment variables to configure Deathstar:
 
-* `DEATHSTAR_REFRESH_INTERVAL`: Time interval in milliseconds to fetch config
+* `DEATHSTAR_REFRESH_INTERVAL`: Time interval in milliseconds to fetch the config from S3
 
 ## From Schibsted with love
 
