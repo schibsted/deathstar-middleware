@@ -1,6 +1,6 @@
 # Deathstar middleware
 
-Node.js middleware for [Deathstar](https://github.com/schibsted/deathstar).
+Node.js middleware for [Deathstar](https://github.com/schibsted/deathstar), to create simulated outages.
 
 ## Usage
 
