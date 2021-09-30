@@ -27,6 +27,6 @@ Use these environment variables to configure Deathstar:
 
 * `DEATHSTAR_REFRESH_INTERVAL`: Time interval in milliseconds to fetch the config from S3
 
-## From Schibsted with love
+## From Schibsted with ❤️
 
 [Schibsted](https://schibsted.com/) made this. Come work with us!
