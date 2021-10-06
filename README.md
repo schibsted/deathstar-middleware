@@ -1,6 +1,6 @@
 # Deathstar middleware
 
-Node.js middleware for [Deathstar](https://github.com/schibsted/deathstar), to create simulated outages.
+Node.js/Koa middleware for [Deathstar](https://github.com/schibsted/deathstar), to create simulated outages.
 
 ## Usage
 
@@ -20,6 +20,8 @@ const deathstar = new Deathstar(
 
 server.use(deathstar.middleware);
 ```
+
+The Deathstar middleware need to be loaded before any route middlwares.
 
 ## Configuration
 
